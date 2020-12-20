@@ -1,0 +1,262 @@
+[
+    {
+        "data": "english_premier_league.json",
+        "id_league": 13,
+        "name_league": "English Premier League"
+    },
+    {
+        "data": "french_ligue_1.json",
+        "id_league": 16,
+        "name_league": "French Ligue 1"
+    },
+    {
+        "data": "german_1_bundesliga.json",
+        "id_league": 19,
+        "name_league": "German 1. Bundesliga"
+    },
+    {
+        "data": "italian_serie_a.json",
+        "id_league": 31,
+        "name_league": "Italian Serie A"
+    },
+    {
+        "data": "spain_primera_division.json",
+        "id_league": 53,
+        "name_league": "Spain Primera Division"
+    },
+    {
+        "data": "argentina_primera_division.json",
+        "id_league": 353,
+        "name_league": "Argentina Primera División"
+    },
+    {
+        "data": "australian_hyundai_a-league.json",
+        "id_league": 351,
+        "name_league": "Australian Hyundai A-League"
+    },
+    {
+        "data": "austrian_football_bundesliga.json",
+        "id_league": 80,
+        "name_league": "Austrian Football Bundesliga"
+    },
+    {
+        "data": "belgian_jupiler_pro_league.json",
+        "id_league": 4,
+        "name_league": "Belgian Jupiler Pro League"
+    },
+    {
+        "data": "campeonato_brasileiro_serie_a.json",
+        "id_league": 7,
+        "name_league": "Campeonato Brasileiro Série A"
+    },
+    {
+        "data": "chilian_campeonato_nacional.json",
+        "id_league": 335,
+        "name_league": "Chilian Campeonato Nacional"
+    },
+    {
+        "data": "chinese_super_league.json",
+        "id_league": 2012,
+        "name_league": "Chinese Super League"
+    },
+    {
+        "data": "colombian_liga_postobon.json",
+        "id_league": 336,
+        "name_league": "Colombian Liga Postobón"
+    },
+    {
+        "data": "croatian_prva_hnl.json",
+        "id_league": 317,
+        "name_league": "Croatian Prva HNL"
+    },
+    {
+        "data": "czech_republic_gambrinus_liga.json",
+        "id_league": 319,
+        "name_league": "Czech Republic Gambrinus Liga"
+    },
+    {
+        "data": "danish_superliga.json",
+        "id_league": 1,
+        "name_league": "Danish Superliga"
+    },
+    {
+        "data": "ecuadorian_serie_a.json",
+        "id_league": 2018,
+        "name_league": "Ecuadorian Serie A"
+    },
+    {
+        "data": "english_league_championship.json",
+        "id_league": 14,
+        "name_league": "English League Championship"
+    },
+    {
+        "data": "english_league_one.json",
+        "id_league": 60,
+        "name_league": "English League One"
+    },
+    {
+        "data": "english_league_two.json",
+        "id_league": 61,
+        "name_league": "English League Two"
+    },
+    {
+        "data": "finnish_veikkausliiga.json",
+        "id_league": 322,
+        "name_league": "Finnish Veikkausliiga"
+    },
+    {
+        "data": "french_ligue_2.json",
+        "id_league": 17,
+        "name_league": "French Ligue 2"
+    },
+    {
+        "data": "german_2_bundesliga.json",
+        "id_league": 20,
+        "name_league": "German 2. Bundesliga"
+    },
+    {
+        "data": "german_3_bundesliga.json",
+        "id_league": 2076,
+        "name_league": "German 3. Bundesliga"
+    },
+    {
+        "data": "greek_super_league.json",
+        "id_league": 63,
+        "name_league": "Greek Super League"
+    },
+    {
+        "data": "holland_eredivisie.json",
+        "id_league": 10,
+        "name_league": "Holland Eredivisie"
+    },
+    {
+        "data": "international.json",
+        "id_league": 78,
+        "name_league": "International"
+    },
+    {
+        "data": "italian_serie_b.json",
+        "id_league": 32,
+        "name_league": "Italian Serie B"
+    },
+    {
+        "data": "japanese_j_league_division_1.json",
+        "id_league": 349,
+        "name_league": "Japanese J. League Division 1"
+    },
+    {
+        "data": "korean_k_league_1.json",
+        "id_league": 83,
+        "name_league": "Korean K League 1"
+    },
+    {
+        "data": "liga_de_futbol_profesional_boliviano.json",
+        "id_league": 2017,
+        "name_league": "Liga de Fútbol Profesional Boliviano"
+    },
+    {
+        "data": "mexican_liga_mx.json",
+        "id_league": 341,
+        "name_league": "Mexican Liga MX"
+    },
+    {
+        "data": "norwegian_eliteserien.json",
+        "id_league": 41,
+        "name_league": "Norwegian Eliteserien"
+    },
+    {
+        "data": "paraguayan_primera_division.json",
+        "id_league": 337,
+        "name_league": "Paraguayan Primera División"
+    },
+    {
+        "data": "peruvian_primera_division.json",
+        "id_league": 2020,
+        "name_league": "Peruvian Primera División"
+    },
+    {
+        "data": "polish_t-mobile_ekstraklasa.json",
+        "id_league": 66,
+        "name_league": "Polish T-Mobile Ekstraklasa"
+    },
+    {
+        "data": "portuguese_liga_zon_sagres.json",
+        "id_league": 308,
+        "name_league": "Portuguese Liga ZON SAGRES"
+    },
+    {
+        "data": "rep_ireland_airtricity_league.json",
+        "id_league": 65,
+        "name_league": "Rep. Ireland Airtricity League"
+    },
+    {
+        "data": "romanian_liga_i.json",
+        "id_league": 330,
+        "name_league": "Romanian Liga I"
+    },
+    {
+        "data": "russian_premier_league.json",
+        "id_league": 67,
+        "name_league": "Russian Premier League"
+    },
+    {
+        "data": "saudi_abdul_l_jameel_league.json",
+        "id_league": 350,
+        "name_league": "Saudi Abdul L. Jameel League"
+    },
+    {
+        "data": "scottish_premiership.json",
+        "id_league": 50,
+        "name_league": "Scottish Premiership"
+    },
+    {
+        "data": "south_african_premier_division.json",
+        "id_league": 347,
+        "name_league": "South African Premier Division"
+    },
+    {
+        "data": "spanish_segunda_division.json",
+        "id_league": 54,
+        "name_league": "Spanish Segunda División"
+    },
+    {
+        "data": "swedish_allsvenskan.json",
+        "id_league": 56,
+        "name_league": "Swedish Allsvenskan"
+    },
+    {
+        "data": "swiss_super_league.json",
+        "id_league": 189,
+        "name_league": "Swiss Super League"
+    },
+    {
+        "data": "turkish_super_lig.json",
+        "id_league": 68,
+        "name_league": "Turkish Süper Lig"
+    },
+    {
+        "data": "uae_arabian_gulf_league.json",
+        "id_league": 2013,
+        "name_league": "UAE Arabian Gulf League"
+    },
+    {
+        "data": "usa_major_league_soccer.json",
+        "id_league": 39,
+        "name_league": "USA Major League Soccer"
+    },
+    {
+        "data": "ukrainian_premier_league.json",
+        "id_league": 332,
+        "name_league": "Ukrainian Premier League"
+    },
+    {
+        "data": "uruguayan_primera_division.json",
+        "id_league": 338,
+        "name_league": "Uruguayan Primera División"
+    },
+    {
+        "data": "venezuelan_primera_division.json",
+        "id_league": 2019,
+        "name_league": "Venezuelan Primera División"
+    }
+]
